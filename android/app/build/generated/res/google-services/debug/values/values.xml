@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">648686977820-pltfa2oe4bluf1341dh11rknumio3atg.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">648686977820</string>
+    <string name="google_api_key" translatable="false">AIzaSyDuUCGtiQLTEm7zBkIWX9eTByGh4Ee8SE4</string>
+    <string name="google_app_id" translatable="false">1:648686977820:android:8ed48952f0e8cd04ea30d9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDuUCGtiQLTEm7zBkIWX9eTByGh4Ee8SE4</string>
+    <string name="google_storage_bucket" translatable="false">licenta-ardeleanucalin.appspot.com</string>
+    <string name="project_id" translatable="false">licenta-ardeleanucalin</string>
+</resources>

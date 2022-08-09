@@ -1,0 +1,779 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:1:1-27:12
+MERGED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:1:1-27:12
+MERGED from [com.facebook.flipper:flipper:0.75.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\3f1c7afbafe498777bc68f7541730dd3\jetified-flipper-0.75.1\AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.75.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\8749cfe7bdabc3e34efad4664ad646f3\jetified-flipper-network-plugin-0.75.1\AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.75.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\12207bc9ab2d1d7aa6da1087c2646dcb\jetified-flipper-fresco-plugin-0.75.1\AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-community_masked-view] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-firebase_auth] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-firebase_firestore] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-firebase\firestore\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-firebase_storage] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-firebase\storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-18:12
+MERGED from [:react-native-firebase_app] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-firebase\app\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-crop-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-34:12
+MERGED from [:react-native-image-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-safe-area-context] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.64.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\cef5599eefd2622e4043dba4257238d9\jetified-react-native-0.64.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-analytics:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\7ccfb575a30176de01a84874335d8a9f\jetified-firebase-analytics-18.0.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:17:1-83:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\cefeae91126638eebaad6cb487fb4d51\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\77d07d7b5dcc4139d4c4a69214d30603\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\f66964b754344bd52700b389ea40ca15\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\76552c6999a7ff2d9a87f19159e4dd3c\jetified-android-jsc-r245459\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-reanimated\android\build\.transforms\7f0089b2525585c9e5a39a242db19fc7\jetified-react-native-reanimated-64\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-firestore:22.1.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\a6b6527a175c371d8a2121da9f4d6695\jetified-firebase-firestore-22.1.2\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-storage:19.2.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\b864620bf92ded7d5981d8a863496e07\jetified-firebase-storage-19.2.2\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\952b810127db0d9415b60d3f48442ef5\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\86cf76c210cdd9338b7ff6f1638d6974\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\39d95f58b3bc866a750e958dfccc864c\jetified-firebase-installations-16.3.5\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\d3e6246e707c39261af636f804f328d7\jetified-firebase-common-19.5.0\AndroidManifest.xml:15:1-49:12
+MERGED from [com.facebook.fresco:flipper:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\c127d0493cff723867dc2dd7b32a4293\jetified-flipper-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\c3d319052f83a0da2ae4c450d0d9bafa\jetified-stetho-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\7bf34cb9503b0ea49832779fdd008b80\jetified-fresco-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\99c5203bcf12865154faeec2b6aa104f\jetified-drawee-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\a292abf6a811fe880824666e335674ec\jetified-nativeimagefilters-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\47a734647544ffb4afb5353c874baa74\jetified-memory-type-native-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\c7f265ce71eaf1193fe8eecf699049cb\jetified-memory-type-java-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\78df4ba1024f1c17f2edc3806c711979\jetified-imagepipeline-native-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\52b5b2db78eeb431d2bfab4593274942\jetified-soloader-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\c627699b6dc26bc72b3b505ba5c6bdba\jetified-soloader-0.10.1\AndroidManifest.xml:2:1-13:12
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\2291dc725f80ef0c3c6fe02c14121338\jetified-grpc-android-1.28.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\0050a1eb8be2fadc3ce1b2424f0ad7fa\jetified-ucrop-2.2.6-native\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\5271280b7acdf978fc94ed41430e8d2e\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\1b8bd15e4db8486592aed62fdac04bd1\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\fd7cf99005bf13aab6f9dec271a1255a\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\133fac2b114b9a7fd32671c0383c10e4\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\019668762954dc5bcdc23c295b297cd9\jetified-memory-type-ashmem-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\8165c85ec9e857c718fac8a67a9f7766\jetified-imagepipeline-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\a24ae7063749254e1431b499c23e2755\jetified-nativeimagetranscoder-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\83477aecf63feb123b8189cae5d125e6\jetified-imagepipeline-base-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\dfd3944feb58342c43a2193e98ebbc30\jetified-play-services-auth-19.0.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\b7a56e46f9bb0c8289cfa113a06df431\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\409bc7032c24e3c92353253ea43ddc93\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9d02d65789dca4b89b0f30b671fbcf7\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\c172dc01bf25b765b116426a3da14618\jetified-firebase-database-collection-17.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28261a2b2b8eaf72e67bc64bdd98fb66\jetified-play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9b08aecd8d9cc1eeacb801e233758db\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\f2db3595fcf335c71600364e1366b66d\jetified-play-services-measurement-sdk-18.0.3\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\a55c414d53d3b44cf2c866c80d13cd57\jetified-firebase-installations-interop-16.0.1\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\1dc5320a9bb104405ebe660998fecc91\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\36ca2549025f35220f31c674f8f19da6\jetified-play-services-measurement-impl-18.0.3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\3fb4070096b6541a485ebe221cff14ba\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\3890ea51e646bdfaa96602b270e3604c\jetified-play-services-measurement-sdk-api-18.0.3\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\5b198278c36074d2024a18ee2bb6742b\jetified-play-services-measurement-base-18.0.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\5416fff76534e6def81087928f18c58a\jetified-play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\7e57f663a61509cb3c49e667b0994857\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e7ae66e80fe4c5657695af92249a406f\jetified-play-services-basement-17.1.1\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\cf5f5add13a46f252a70235a5d3593e4\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\2125de692c6f3df74058c305016499e9\fragment-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\5b336cbe857246b1699b691b2c2c2f13\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\4c8f935d4b37a78a499980e68c7880ba\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\0ae325f8ddae9e20d681dfc86aca52e8\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\089967b77e7b2d02b42fae363ec0ea22\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\86a19e549f1b89d0cd93e50b43a5731c\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\4dfbe5919d0c42aa4525717f10325732\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\b893f23fda30f10d9badd124a52316cb\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\904c3c325bf4c5f99435e6f2fd0209eb\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\ba558f235e6292508714c8ddd591aabe\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\1ede25d85004a9b507954bf5b4658077\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\72c18eeba246ae6537154a58a5f1362f\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\6116454f56f26e5993ad148434cf628c\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\7b6403c78344b797fdf8b47fe9d34962\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\d3eca3c22f504854eaa88fcc56f9ab02\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\7a480283246063832beaf6a21c53618c\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\92591fb7e2e853c57b38be9247e522b3\exifinterface-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e08c952a0c6f274595e2b8996edf6d94\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\4a94da7bed4de029afe1da74148e46f2\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\46e45a9d58789bc26e532135bdd45b3e\jetified-firebase-components-16.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\162dc168d3428ad5e0b1edef3433dbca\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\d6f76b814ddb76c1c33b7e01fe5ff234\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\9cc82be82716a448e62b2318faaa9b4a\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e33dbde80e831f0bfe5811ff0bf135ed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\b29f5100c4db257bdf90a6b1a1c07fa8\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\8c53f689e18ddd7e3660e23f6efa8860\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\37cc0debd9524d3e19b5249156e38ac4\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\02a0ee98ffcae2d58122417d6745c1b9\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\5519540335bf0ae91c95349cf623c530\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\b78128e12540f9acec0217911234d46f\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\cbcdb241c662de7e8873088066580e5c\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e4fd63bd2275fe1ac098ff67d50ba81d\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\1561024d9aa8d2b6aa8042b1da4c84be\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\c7e2568551f27f76b3181492045c9323\jetified-fbcore-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\a18acbd6e6245aae23df7bcd3b9de117\jetified-ui-common-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:protolite-well-known-types:17.1.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\afbc3d08fb80c54a20c9e09e7defad35\jetified-protolite-well-known-types-17.1.1\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:2:3-30
+		INJECTED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:2:3-30
+		INJECTED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.75.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\3f1c7afbafe498777bc68f7541730dd3\jetified-flipper-0.75.1\AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.75.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\3f1c7afbafe498777bc68f7541730dd3\jetified-flipper-0.75.1\AndroidManifest.xml:15:5-67
+MERGED from [:react-native-firebase_auth] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_auth] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_storage] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-firebase\storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_storage] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-firebase\storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-firestore:22.1.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\a6b6527a175c371d8a2121da9f4d6695\jetified-firebase-firestore-22.1.2\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:22.1.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\a6b6527a175c371d8a2121da9f4d6695\jetified-firebase-firestore-22.1.2\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-storage:19.2.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\b864620bf92ded7d5981d8a863496e07\jetified-firebase-storage-19.2.2\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:19.2.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\b864620bf92ded7d5981d8a863496e07\jetified-firebase-storage-19.2.2\AndroidManifest.xml:27:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\952b810127db0d9415b60d3f48442ef5\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\952b810127db0d9415b60d3f48442ef5\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\39d95f58b3bc866a750e958dfccc864c\jetified-firebase-installations-16.3.5\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\39d95f58b3bc866a750e958dfccc864c\jetified-firebase-installations-16.3.5\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9b08aecd8d9cc1eeacb801e233758db\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9b08aecd8d9cc1eeacb801e233758db\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\36ca2549025f35220f31c674f8f19da6\jetified-play-services-measurement-impl-18.0.3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\36ca2549025f35220f31c674f8f19da6\jetified-play-services-measurement-impl-18.0.3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\3890ea51e646bdfaa96602b270e3604c\jetified-play-services-measurement-sdk-api-18.0.3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\3890ea51e646bdfaa96602b270e3604c\jetified-play-services-measurement-sdk-api-18.0.3\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:6:6-81
+MERGED from [:react-native-firebase_storage] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-firebase\storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-81
+MERGED from [:react-native-firebase_storage] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-firebase\storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-81
+MERGED from [:react-native-image-crop-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-81
+MERGED from [:react-native-image-crop-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:6:23-79
+application
+ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:8:5-26:19
+MERGED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:8:5-26:19
+MERGED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:8:5-26:19
+MERGED from [:react-native-image-crop-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-32:19
+MERGED from [:react-native-image-crop-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-32:19
+MERGED from [:react-native-image-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.64.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\cef5599eefd2622e4043dba4257238d9\jetified-react-native-0.64.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.64.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\cef5599eefd2622e4043dba4257238d9\jetified-react-native-0.64.0\AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-analytics:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\7ccfb575a30176de01a84874335d8a9f\jetified-firebase-analytics-18.0.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\7ccfb575a30176de01a84874335d8a9f\jetified-firebase-analytics-18.0.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-firestore:22.1.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\a6b6527a175c371d8a2121da9f4d6695\jetified-firebase-firestore-22.1.2\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:22.1.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\a6b6527a175c371d8a2121da9f4d6695\jetified-firebase-firestore-22.1.2\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-storage:19.2.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\b864620bf92ded7d5981d8a863496e07\jetified-firebase-storage-19.2.2\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:19.2.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\b864620bf92ded7d5981d8a863496e07\jetified-firebase-storage-19.2.2\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\952b810127db0d9415b60d3f48442ef5\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\952b810127db0d9415b60d3f48442ef5\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\86cf76c210cdd9338b7ff6f1638d6974\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\86cf76c210cdd9338b7ff6f1638d6974\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\39d95f58b3bc866a750e958dfccc864c\jetified-firebase-installations-16.3.5\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\39d95f58b3bc866a750e958dfccc864c\jetified-firebase-installations-16.3.5\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\d3e6246e707c39261af636f804f328d7\jetified-firebase-common-19.5.0\AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\d3e6246e707c39261af636f804f328d7\jetified-firebase-common-19.5.0\AndroidManifest.xml:25:5-47:19
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\c627699b6dc26bc72b3b505ba5c6bdba\jetified-soloader-0.10.1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\c627699b6dc26bc72b3b505ba5c6bdba\jetified-soloader-0.10.1\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\5271280b7acdf978fc94ed41430e8d2e\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\5271280b7acdf978fc94ed41430e8d2e\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\dfd3944feb58342c43a2193e98ebbc30\jetified-play-services-auth-19.0.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\dfd3944feb58342c43a2193e98ebbc30\jetified-play-services-auth-19.0.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9d02d65789dca4b89b0f30b671fbcf7\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9d02d65789dca4b89b0f30b671fbcf7\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28261a2b2b8eaf72e67bc64bdd98fb66\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28261a2b2b8eaf72e67bc64bdd98fb66\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9b08aecd8d9cc1eeacb801e233758db\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9b08aecd8d9cc1eeacb801e233758db\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\f2db3595fcf335c71600364e1366b66d\jetified-play-services-measurement-sdk-18.0.3\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\f2db3595fcf335c71600364e1366b66d\jetified-play-services-measurement-sdk-18.0.3\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\1dc5320a9bb104405ebe660998fecc91\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\1dc5320a9bb104405ebe660998fecc91\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\36ca2549025f35220f31c674f8f19da6\jetified-play-services-measurement-impl-18.0.3\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\36ca2549025f35220f31c674f8f19da6\jetified-play-services-measurement-impl-18.0.3\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\3fb4070096b6541a485ebe221cff14ba\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\3fb4070096b6541a485ebe221cff14ba\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\5b198278c36074d2024a18ee2bb6742b\jetified-play-services-measurement-base-18.0.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\5b198278c36074d2024a18ee2bb6742b\jetified-play-services-measurement-base-18.0.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\5416fff76534e6def81087928f18c58a\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\5416fff76534e6def81087928f18c58a\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\7e57f663a61509cb3c49e667b0994857\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\7e57f663a61509cb3c49e667b0994857\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e7ae66e80fe4c5657695af92249a406f\jetified-play-services-basement-17.1.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e7ae66e80fe4c5657695af92249a406f\jetified-play-services-basement-17.1.1\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\7a480283246063832beaf6a21c53618c\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\7a480283246063832beaf6a21c53618c\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\162dc168d3428ad5e0b1edef3433dbca\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\162dc168d3428ad5e0b1edef3433dbca\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\7a480283246063832beaf6a21c53618c\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:10:7-39
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:10:7-39
+	tools:ignore
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\debug\AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:12:7-52
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:12:7-52
+	tools:targetApi
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\debug\AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:11:7-41
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:11:7-41
+	android:allowBackup
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:13:7-34
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:13:7-34
+	android:theme
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:14:7-38
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:14:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\debug\AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:9:7-38
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:9:7-38
+activity#com.final_licenta.MainActivity
+ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:15:7-25:18
+	android:label
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:17:9-41
+	android:launchMode
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:19:9-40
+	android:windowSoftInputMode
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:20:9-51
+	android:configChanges
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:18:9-86
+	android:name
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:16:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:21:9-24:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:22:13-65
+	android:name
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:22:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:23:13-73
+	android:name
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml:23:23-70
+uses-sdk
+INJECTED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.75.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\3f1c7afbafe498777bc68f7541730dd3\jetified-flipper-0.75.1\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.75.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\3f1c7afbafe498777bc68f7541730dd3\jetified-flipper-0.75.1\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.75.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\8749cfe7bdabc3e34efad4664ad646f3\jetified-flipper-network-plugin-0.75.1\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.75.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\8749cfe7bdabc3e34efad4664ad646f3\jetified-flipper-network-plugin-0.75.1\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.75.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\12207bc9ab2d1d7aa6da1087c2646dcb\jetified-flipper-fresco-plugin-0.75.1\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.75.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\12207bc9ab2d1d7aa6da1087c2646dcb\jetified-flipper-fresco-plugin-0.75.1\AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-community_masked-view] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_auth] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_auth] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_firestore] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-firebase\firestore\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_firestore] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-firebase\firestore\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_storage] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-firebase\storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_storage] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-firebase\storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-firebase\app\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-firebase\app\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-crop-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-crop-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.64.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\cef5599eefd2622e4043dba4257238d9\jetified-react-native-0.64.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.64.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\cef5599eefd2622e4043dba4257238d9\jetified-react-native-0.64.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-analytics:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\7ccfb575a30176de01a84874335d8a9f\jetified-firebase-analytics-18.0.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\7ccfb575a30176de01a84874335d8a9f\jetified-firebase-analytics-18.0.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\cefeae91126638eebaad6cb487fb4d51\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\cefeae91126638eebaad6cb487fb4d51\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\77d07d7b5dcc4139d4c4a69214d30603\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\77d07d7b5dcc4139d4c4a69214d30603\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\f66964b754344bd52700b389ea40ca15\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\f66964b754344bd52700b389ea40ca15\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\76552c6999a7ff2d9a87f19159e4dd3c\jetified-android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\76552c6999a7ff2d9a87f19159e4dd3c\jetified-android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-reanimated\android\build\.transforms\7f0089b2525585c9e5a39a242db19fc7\jetified-react-native-reanimated-64\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-reanimated\android\build\.transforms\7f0089b2525585c9e5a39a242db19fc7\jetified-react-native-reanimated-64\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:22.1.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\a6b6527a175c371d8a2121da9f4d6695\jetified-firebase-firestore-22.1.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:22.1.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\a6b6527a175c371d8a2121da9f4d6695\jetified-firebase-firestore-22.1.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-storage:19.2.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\b864620bf92ded7d5981d8a863496e07\jetified-firebase-storage-19.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:19.2.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\b864620bf92ded7d5981d8a863496e07\jetified-firebase-storage-19.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\952b810127db0d9415b60d3f48442ef5\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\952b810127db0d9415b60d3f48442ef5\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\86cf76c210cdd9338b7ff6f1638d6974\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\86cf76c210cdd9338b7ff6f1638d6974\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\39d95f58b3bc866a750e958dfccc864c\jetified-firebase-installations-16.3.5\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\39d95f58b3bc866a750e958dfccc864c\jetified-firebase-installations-16.3.5\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\d3e6246e707c39261af636f804f328d7\jetified-firebase-common-19.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\d3e6246e707c39261af636f804f328d7\jetified-firebase-common-19.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\c127d0493cff723867dc2dd7b32a4293\jetified-flipper-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\c127d0493cff723867dc2dd7b32a4293\jetified-flipper-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\c3d319052f83a0da2ae4c450d0d9bafa\jetified-stetho-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\c3d319052f83a0da2ae4c450d0d9bafa\jetified-stetho-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\7bf34cb9503b0ea49832779fdd008b80\jetified-fresco-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\7bf34cb9503b0ea49832779fdd008b80\jetified-fresco-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\99c5203bcf12865154faeec2b6aa104f\jetified-drawee-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\99c5203bcf12865154faeec2b6aa104f\jetified-drawee-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\a292abf6a811fe880824666e335674ec\jetified-nativeimagefilters-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\a292abf6a811fe880824666e335674ec\jetified-nativeimagefilters-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\47a734647544ffb4afb5353c874baa74\jetified-memory-type-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\47a734647544ffb4afb5353c874baa74\jetified-memory-type-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\c7f265ce71eaf1193fe8eecf699049cb\jetified-memory-type-java-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\c7f265ce71eaf1193fe8eecf699049cb\jetified-memory-type-java-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\78df4ba1024f1c17f2edc3806c711979\jetified-imagepipeline-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\78df4ba1024f1c17f2edc3806c711979\jetified-imagepipeline-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\52b5b2db78eeb431d2bfab4593274942\jetified-soloader-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\52b5b2db78eeb431d2bfab4593274942\jetified-soloader-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\c627699b6dc26bc72b3b505ba5c6bdba\jetified-soloader-0.10.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\c627699b6dc26bc72b3b505ba5c6bdba\jetified-soloader-0.10.1\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\2291dc725f80ef0c3c6fe02c14121338\jetified-grpc-android-1.28.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\2291dc725f80ef0c3c6fe02c14121338\jetified-grpc-android-1.28.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\0050a1eb8be2fadc3ce1b2424f0ad7fa\jetified-ucrop-2.2.6-native\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\0050a1eb8be2fadc3ce1b2424f0ad7fa\jetified-ucrop-2.2.6-native\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\5271280b7acdf978fc94ed41430e8d2e\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\5271280b7acdf978fc94ed41430e8d2e\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\1b8bd15e4db8486592aed62fdac04bd1\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\1b8bd15e4db8486592aed62fdac04bd1\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\fd7cf99005bf13aab6f9dec271a1255a\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\fd7cf99005bf13aab6f9dec271a1255a\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\133fac2b114b9a7fd32671c0383c10e4\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\133fac2b114b9a7fd32671c0383c10e4\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\019668762954dc5bcdc23c295b297cd9\jetified-memory-type-ashmem-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\019668762954dc5bcdc23c295b297cd9\jetified-memory-type-ashmem-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\8165c85ec9e857c718fac8a67a9f7766\jetified-imagepipeline-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\8165c85ec9e857c718fac8a67a9f7766\jetified-imagepipeline-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\a24ae7063749254e1431b499c23e2755\jetified-nativeimagetranscoder-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\a24ae7063749254e1431b499c23e2755\jetified-nativeimagetranscoder-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\83477aecf63feb123b8189cae5d125e6\jetified-imagepipeline-base-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\83477aecf63feb123b8189cae5d125e6\jetified-imagepipeline-base-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\dfd3944feb58342c43a2193e98ebbc30\jetified-play-services-auth-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\dfd3944feb58342c43a2193e98ebbc30\jetified-play-services-auth-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\b7a56e46f9bb0c8289cfa113a06df431\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\b7a56e46f9bb0c8289cfa113a06df431\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\409bc7032c24e3c92353253ea43ddc93\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\409bc7032c24e3c92353253ea43ddc93\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9d02d65789dca4b89b0f30b671fbcf7\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9d02d65789dca4b89b0f30b671fbcf7\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\c172dc01bf25b765b116426a3da14618\jetified-firebase-database-collection-17.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\c172dc01bf25b765b116426a3da14618\jetified-firebase-database-collection-17.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28261a2b2b8eaf72e67bc64bdd98fb66\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28261a2b2b8eaf72e67bc64bdd98fb66\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9b08aecd8d9cc1eeacb801e233758db\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9b08aecd8d9cc1eeacb801e233758db\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\f2db3595fcf335c71600364e1366b66d\jetified-play-services-measurement-sdk-18.0.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\f2db3595fcf335c71600364e1366b66d\jetified-play-services-measurement-sdk-18.0.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\a55c414d53d3b44cf2c866c80d13cd57\jetified-firebase-installations-interop-16.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\a55c414d53d3b44cf2c866c80d13cd57\jetified-firebase-installations-interop-16.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\1dc5320a9bb104405ebe660998fecc91\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\1dc5320a9bb104405ebe660998fecc91\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\36ca2549025f35220f31c674f8f19da6\jetified-play-services-measurement-impl-18.0.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\36ca2549025f35220f31c674f8f19da6\jetified-play-services-measurement-impl-18.0.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\3fb4070096b6541a485ebe221cff14ba\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\3fb4070096b6541a485ebe221cff14ba\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\3890ea51e646bdfaa96602b270e3604c\jetified-play-services-measurement-sdk-api-18.0.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\3890ea51e646bdfaa96602b270e3604c\jetified-play-services-measurement-sdk-api-18.0.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\5b198278c36074d2024a18ee2bb6742b\jetified-play-services-measurement-base-18.0.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\5b198278c36074d2024a18ee2bb6742b\jetified-play-services-measurement-base-18.0.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\5416fff76534e6def81087928f18c58a\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\5416fff76534e6def81087928f18c58a\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\7e57f663a61509cb3c49e667b0994857\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\7e57f663a61509cb3c49e667b0994857\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e7ae66e80fe4c5657695af92249a406f\jetified-play-services-basement-17.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e7ae66e80fe4c5657695af92249a406f\jetified-play-services-basement-17.1.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\cf5f5add13a46f252a70235a5d3593e4\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\cf5f5add13a46f252a70235a5d3593e4\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\2125de692c6f3df74058c305016499e9\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\2125de692c6f3df74058c305016499e9\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\5b336cbe857246b1699b691b2c2c2f13\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\5b336cbe857246b1699b691b2c2c2f13\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\4c8f935d4b37a78a499980e68c7880ba\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\4c8f935d4b37a78a499980e68c7880ba\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\0ae325f8ddae9e20d681dfc86aca52e8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\0ae325f8ddae9e20d681dfc86aca52e8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\089967b77e7b2d02b42fae363ec0ea22\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\089967b77e7b2d02b42fae363ec0ea22\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\86a19e549f1b89d0cd93e50b43a5731c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\86a19e549f1b89d0cd93e50b43a5731c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\4dfbe5919d0c42aa4525717f10325732\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\4dfbe5919d0c42aa4525717f10325732\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\b893f23fda30f10d9badd124a52316cb\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\b893f23fda30f10d9badd124a52316cb\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\904c3c325bf4c5f99435e6f2fd0209eb\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\904c3c325bf4c5f99435e6f2fd0209eb\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\ba558f235e6292508714c8ddd591aabe\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\ba558f235e6292508714c8ddd591aabe\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\1ede25d85004a9b507954bf5b4658077\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\1ede25d85004a9b507954bf5b4658077\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\72c18eeba246ae6537154a58a5f1362f\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\72c18eeba246ae6537154a58a5f1362f\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\6116454f56f26e5993ad148434cf628c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\6116454f56f26e5993ad148434cf628c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\7b6403c78344b797fdf8b47fe9d34962\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\7b6403c78344b797fdf8b47fe9d34962\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\d3eca3c22f504854eaa88fcc56f9ab02\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\d3eca3c22f504854eaa88fcc56f9ab02\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\7a480283246063832beaf6a21c53618c\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\7a480283246063832beaf6a21c53618c\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\92591fb7e2e853c57b38be9247e522b3\exifinterface-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\92591fb7e2e853c57b38be9247e522b3\exifinterface-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e08c952a0c6f274595e2b8996edf6d94\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e08c952a0c6f274595e2b8996edf6d94\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\4a94da7bed4de029afe1da74148e46f2\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\4a94da7bed4de029afe1da74148e46f2\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\46e45a9d58789bc26e532135bdd45b3e\jetified-firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\46e45a9d58789bc26e532135bdd45b3e\jetified-firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\162dc168d3428ad5e0b1edef3433dbca\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\162dc168d3428ad5e0b1edef3433dbca\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\d6f76b814ddb76c1c33b7e01fe5ff234\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\d6f76b814ddb76c1c33b7e01fe5ff234\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\9cc82be82716a448e62b2318faaa9b4a\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\9cc82be82716a448e62b2318faaa9b4a\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e33dbde80e831f0bfe5811ff0bf135ed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e33dbde80e831f0bfe5811ff0bf135ed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\b29f5100c4db257bdf90a6b1a1c07fa8\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\b29f5100c4db257bdf90a6b1a1c07fa8\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\8c53f689e18ddd7e3660e23f6efa8860\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\8c53f689e18ddd7e3660e23f6efa8860\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\37cc0debd9524d3e19b5249156e38ac4\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\37cc0debd9524d3e19b5249156e38ac4\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\02a0ee98ffcae2d58122417d6745c1b9\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\02a0ee98ffcae2d58122417d6745c1b9\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\5519540335bf0ae91c95349cf623c530\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\5519540335bf0ae91c95349cf623c530\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\b78128e12540f9acec0217911234d46f\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\b78128e12540f9acec0217911234d46f\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\cbcdb241c662de7e8873088066580e5c\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\cbcdb241c662de7e8873088066580e5c\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e4fd63bd2275fe1ac098ff67d50ba81d\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e4fd63bd2275fe1ac098ff67d50ba81d\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\1561024d9aa8d2b6aa8042b1da4c84be\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\1561024d9aa8d2b6aa8042b1da4c84be\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\c7e2568551f27f76b3181492045c9323\jetified-fbcore-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\c7e2568551f27f76b3181492045c9323\jetified-fbcore-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\a18acbd6e6245aae23df7bcd3b9de117\jetified-ui-common-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\a18acbd6e6245aae23df7bcd3b9de117\jetified-ui-common-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.1.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\afbc3d08fb80c54a20c9e09e7defad35\jetified-protolite-well-known-types-17.1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.1.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\afbc3d08fb80c54a20c9e09e7defad35\jetified-protolite-well-known-types-17.1.1\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\debug\AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\debug\AndroidManifest.xml:11:9-86
+	android:name
+		ADDED from C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\android\app\src\debug\AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.75.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\3f1c7afbafe498777bc68f7541730dd3\jetified-flipper-0.75.1\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.75.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\3f1c7afbafe498777bc68f7541730dd3\jetified-flipper-0.75.1\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase_auth] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-68
+MERGED from [:react-native-firebase_storage] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-firebase\storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-68
+MERGED from [:react-native-firebase_storage] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-firebase\storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\952b810127db0d9415b60d3f48442ef5\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\952b810127db0d9415b60d3f48442ef5\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9b08aecd8d9cc1eeacb801e233758db\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9b08aecd8d9cc1eeacb801e233758db\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\36ca2549025f35220f31c674f8f19da6\jetified-play-services-measurement-impl-18.0.3\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\36ca2549025f35220f31c674f8f19da6\jetified-play-services-measurement-impl-18.0.3\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\3890ea51e646bdfaa96602b270e3604c\jetified-play-services-measurement-sdk-api-18.0.3\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\3890ea51e646bdfaa96602b270e3604c\jetified-play-services-measurement-sdk-api-18.0.3\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:react-native-firebase_auth] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase_auth] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-79
+MERGED from [:react-native-firebase_storage] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-firebase\storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-79
+MERGED from [:react-native-firebase_storage] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-firebase\storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-firestore:22.1.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\a6b6527a175c371d8a2121da9f4d6695\jetified-firebase-firestore-22.1.2\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:22.1.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\a6b6527a175c371d8a2121da9f4d6695\jetified-firebase-firestore-22.1.2\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-storage:19.2.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\b864620bf92ded7d5981d8a863496e07\jetified-firebase-storage-19.2.2\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:19.2.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\b864620bf92ded7d5981d8a863496e07\jetified-firebase-storage-19.2.2\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\952b810127db0d9415b60d3f48442ef5\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\952b810127db0d9415b60d3f48442ef5\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\39d95f58b3bc866a750e958dfccc864c\jetified-firebase-installations-16.3.5\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\39d95f58b3bc866a750e958dfccc864c\jetified-firebase-installations-16.3.5\AndroidManifest.xml:10:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\2291dc725f80ef0c3c6fe02c14121338\jetified-grpc-android-1.28.0\AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\2291dc725f80ef0c3c6fe02c14121338\jetified-grpc-android-1.28.0\AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9b08aecd8d9cc1eeacb801e233758db\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9b08aecd8d9cc1eeacb801e233758db\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\36ca2549025f35220f31c674f8f19da6\jetified-play-services-measurement-impl-18.0.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\36ca2549025f35220f31c674f8f19da6\jetified-play-services-measurement-impl-18.0.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\3890ea51e646bdfaa96602b270e3604c\jetified-play-services-measurement-sdk-api-18.0.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\3890ea51e646bdfaa96602b270e3604c\jetified-play-services-measurement-sdk-api-18.0.3\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:react-native-firebase_auth] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:react-native-firebase_storage] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-firebase\storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from [:react-native-firebase_storage] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\@react-native-firebase\storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:22-77
+queries
+ADDED from [:react-native-image-crop-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-14:15
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-13:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-73
+	android:name
+		ADDED from [:react-native-image-crop-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:21-70
+provider#androidx.core.content.FileProvider
+ADDED from [:react-native-image-crop-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:9-27:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:13-26:58
+	android:resource
+		ADDED from [:react-native-image-crop-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:17-55
+	android:name
+		ADDED from [:react-native-image-crop-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:9-31:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:13-60
+provider#com.imagepicker.ImagePickerProvider
+ADDED from [:react-native-image-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-71
+	android:exported
+		ADDED from [:react-native-image-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] C:\Users\Calin\Desktop\APLICATIE_LICENTA_ANSUP\calin522-licenta_reactnative_cli-f94ed5808d89\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-63
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
+ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:64:9-73:19
+	android:enabled
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:65:13-101
+intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:68:13-72:29
+action#com.google.firebase.auth.api.gms.service.START
+ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:69:17-89
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:69:25-86
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-firestore:22.1.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\a6b6527a175c371d8a2121da9f4d6695\jetified-firebase-firestore-22.1.2\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:22.1.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\a6b6527a175c371d8a2121da9f4d6695\jetified-firebase-firestore-22.1.2\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-storage:19.2.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\b864620bf92ded7d5981d8a863496e07\jetified-firebase-storage-19.2.2\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-storage:19.2.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\b864620bf92ded7d5981d8a863496e07\jetified-firebase-storage-19.2.2\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\952b810127db0d9415b60d3f48442ef5\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\952b810127db0d9415b60d3f48442ef5\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\39d95f58b3bc866a750e958dfccc864c\jetified-firebase-installations-16.3.5\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\39d95f58b3bc866a750e958dfccc864c\jetified-firebase-installations-16.3.5\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\d3e6246e707c39261af636f804f328d7\jetified-firebase-common-19.5.0\AndroidManifest.xml:33:9-46:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\d3e6246e707c39261af636f804f328d7\jetified-firebase-common-19.5.0\AndroidManifest.xml:33:9-46:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:76:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\d3e6246e707c39261af636f804f328d7\jetified-firebase-common-19.5.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\d3e6246e707c39261af636f804f328d7\jetified-firebase-common-19.5.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:75:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:77:13-79:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:79:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28e6580974c87a3d680b72e0dec3d8fb\jetified-firebase-auth-20.0.4\AndroidManifest.xml:78:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:22.1.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\a6b6527a175c371d8a2121da9f4d6695\jetified-firebase-firestore-22.1.2\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:22.1.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\a6b6527a175c371d8a2121da9f4d6695\jetified-firebase-firestore-22.1.2\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:22.1.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\a6b6527a175c371d8a2121da9f4d6695\jetified-firebase-firestore-22.1.2\AndroidManifest.xml:21:17-111
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:19.2.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\b864620bf92ded7d5981d8a863496e07\jetified-firebase-storage-19.2.2\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:19.2.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\b864620bf92ded7d5981d8a863496e07\jetified-firebase-storage-19.2.2\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:19.2.2] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\b864620bf92ded7d5981d8a863496e07\jetified-firebase-storage-19.2.2\AndroidManifest.xml:34:17-107
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\952b810127db0d9415b60d3f48442ef5\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\952b810127db0d9415b60d3f48442ef5\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\952b810127db0d9415b60d3f48442ef5\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\39d95f58b3bc866a750e958dfccc864c\jetified-firebase-installations-16.3.5\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\39d95f58b3bc866a750e958dfccc864c\jetified-firebase-installations-16.3.5\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\39d95f58b3bc866a750e958dfccc864c\jetified-firebase-installations-16.3.5\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\d3e6246e707c39261af636f804f328d7\jetified-firebase-common-19.5.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\d3e6246e707c39261af636f804f328d7\jetified-firebase-common-19.5.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\d3e6246e707c39261af636f804f328d7\jetified-firebase-common-19.5.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\d3e6246e707c39261af636f804f328d7\jetified-firebase-common-19.5.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\d3e6246e707c39261af636f804f328d7\jetified-firebase-common-19.5.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\d3e6246e707c39261af636f804f328d7\jetified-firebase-common-19.5.0\AndroidManifest.xml:27:13-77
+meta-data#com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar
+ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\d3e6246e707c39261af636f804f328d7\jetified-firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\d3e6246e707c39261af636f804f328d7\jetified-firebase-common-19.5.0\AndroidManifest.xml:45:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\d3e6246e707c39261af636f804f328d7\jetified-firebase-common-19.5.0\AndroidManifest.xml:44:17-121
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\dfd3944feb58342c43a2193e98ebbc30\jetified-play-services-auth-19.0.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\dfd3944feb58342c43a2193e98ebbc30\jetified-play-services-auth-19.0.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\dfd3944feb58342c43a2193e98ebbc30\jetified-play-services-auth-19.0.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\dfd3944feb58342c43a2193e98ebbc30\jetified-play-services-auth-19.0.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\dfd3944feb58342c43a2193e98ebbc30\jetified-play-services-auth-19.0.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\dfd3944feb58342c43a2193e98ebbc30\jetified-play-services-auth-19.0.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\dfd3944feb58342c43a2193e98ebbc30\jetified-play-services-auth-19.0.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\dfd3944feb58342c43a2193e98ebbc30\jetified-play-services-auth-19.0.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\dfd3944feb58342c43a2193e98ebbc30\jetified-play-services-auth-19.0.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\dfd3944feb58342c43a2193e98ebbc30\jetified-play-services-auth-19.0.0\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28261a2b2b8eaf72e67bc64bdd98fb66\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28261a2b2b8eaf72e67bc64bdd98fb66\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28261a2b2b8eaf72e67bc64bdd98fb66\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\28261a2b2b8eaf72e67bc64bdd98fb66\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9b08aecd8d9cc1eeacb801e233758db\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\36ca2549025f35220f31c674f8f19da6\jetified-play-services-measurement-impl-18.0.3\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\36ca2549025f35220f31c674f8f19da6\jetified-play-services-measurement-impl-18.0.3\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9b08aecd8d9cc1eeacb801e233758db\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9b08aecd8d9cc1eeacb801e233758db\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9b08aecd8d9cc1eeacb801e233758db\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9b08aecd8d9cc1eeacb801e233758db\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9b08aecd8d9cc1eeacb801e233758db\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9b08aecd8d9cc1eeacb801e233758db\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9b08aecd8d9cc1eeacb801e233758db\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9b08aecd8d9cc1eeacb801e233758db\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9b08aecd8d9cc1eeacb801e233758db\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9b08aecd8d9cc1eeacb801e233758db\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9b08aecd8d9cc1eeacb801e233758db\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9b08aecd8d9cc1eeacb801e233758db\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9b08aecd8d9cc1eeacb801e233758db\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e9b08aecd8d9cc1eeacb801e233758db\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e7ae66e80fe4c5657695af92249a406f\jetified-play-services-basement-17.1.1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e7ae66e80fe4c5657695af92249a406f\jetified-play-services-basement-17.1.1\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Calin\.gradle\caches\transforms-2\files-2.1\e7ae66e80fe4c5657695af92249a406f\jetified-play-services-basement-17.1.1\AndroidManifest.xml:24:13-58

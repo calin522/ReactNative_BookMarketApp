@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Calin\\Desktop\\APLICATIE_LICENTA_ANSUP\\calin522-licenta_reactnative_cli-f94ed5808d89\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Calin\\Desktop\\APLICATIE_LICENTA_ANSUP\\calin522-licenta_reactnative_cli-f94ed5808d89\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Calin\\Desktop\\APLICATIE_LICENTA_ANSUP\\calin522-licenta_reactnative_cli-f94ed5808d89\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Calin\\Desktop\\APLICATIE_LICENTA_ANSUP\\calin522-licenta_reactnative_cli-f94ed5808d89\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Calin\\Desktop\\APLICATIE_LICENTA_ANSUP\\calin522-licenta_reactnative_cli-f94ed5808d89\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Calin\\Desktop\\APLICATIE_LICENTA_ANSUP\\calin522-licenta_reactnative_cli-f94ed5808d89\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Calin\\Desktop\\APLICATIE_LICENTA_ANSUP\\calin522-licenta_reactnative_cli-f94ed5808d89\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Calin\\Desktop\\APLICATIE_LICENTA_ANSUP\\calin522-licenta_reactnative_cli-f94ed5808d89\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Calin\\Desktop\\APLICATIE_LICENTA_ANSUP\\calin522-licenta_reactnative_cli-f94ed5808d89\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Calin\\Desktop\\APLICATIE_LICENTA_ANSUP\\calin522-licenta_reactnative_cli-f94ed5808d89\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Calin\\Desktop\\APLICATIE_LICENTA_ANSUP\\calin522-licenta_reactnative_cli-f94ed5808d89\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Calin\\Desktop\\APLICATIE_LICENTA_ANSUP\\calin522-licenta_reactnative_cli-f94ed5808d89\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Calin\\Desktop\\APLICATIE_LICENTA_ANSUP\\calin522-licenta_reactnative_cli-f94ed5808d89\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Calin\\Desktop\\APLICATIE_LICENTA_ANSUP\\calin522-licenta_reactnative_cli-f94ed5808d89\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Calin\\Desktop\\APLICATIE_LICENTA_ANSUP\\calin522-licenta_reactnative_cli-f94ed5808d89\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Calin\\Desktop\\APLICATIE_LICENTA_ANSUP\\calin522-licenta_reactnative_cli-f94ed5808d89\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Calin\\Desktop\\APLICATIE_LICENTA_ANSUP\\calin522-licenta_reactnative_cli-f94ed5808d89\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Calin\\Desktop\\APLICATIE_LICENTA_ANSUP\\calin522-licenta_reactnative_cli-f94ed5808d89\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Calin\\Desktop\\APLICATIE_LICENTA_ANSUP\\calin522-licenta_reactnative_cli-f94ed5808d89\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Calin\\Desktop\\APLICATIE_LICENTA_ANSUP\\calin522-licenta_reactnative_cli-f94ed5808d89\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,14 @@
+com/final_licenta/ReactNativeFlipper.java
+ com.final_licenta.ReactNativeFlipper
+ com.final_licenta.ReactNativeFlipper$1
+ com.final_licenta.ReactNativeFlipper$2
+ com.final_licenta.ReactNativeFlipper$2$1
+com/final_licenta/BuildConfig.java
+ com.final_licenta.BuildConfig
+com/final_licenta/MainActivity.java
+ com.final_licenta.MainActivity
+com/final_licenta/MainApplication.java
+ com.final_licenta.MainApplication
+ com.final_licenta.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
